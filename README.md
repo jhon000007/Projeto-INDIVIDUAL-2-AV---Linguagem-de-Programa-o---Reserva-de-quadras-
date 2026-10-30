@@ -1,7 +1,4 @@
 # Projeto-INDIVIDUAL-2-AV---Linguagem-de-Programa-o---Reserva-de-quadras-
-
-# Projeto-INDIVIDUAL-2-AV---Linguagem-de-Programa-o---Reserva-de-quadras-
-
 # Sistema de Aluguel de Quadras: Especificação de Requisitos
 
 *Trabalho da disciplina de Programação · Base teórica: Valente (2020),
