@@ -1,13 +1,13 @@
-# Sistema de Aluguel da Arena Sebastião
+# Sistema de Aluguel de quadras
 ## Especificação de Requisitos e Casos de Uso
 
-*Trabalho da disciplina de programação · Base teórica: Valente (2020), Engenharia de Software Moderna, cap. 3*
+* Base teórica: Valente (2020), Engenharia de Software Moderna, cap. 3*
 
 ## 1. Visão geral
 
 O sistema substitui o controle manual de reservas (caderno, mensagens) da Arena Sebastião, em Palmeira dos Índios, que aluga uma quadra esportiva. O sistema é de uso exclusivo dessa empresa e atende essa única quadra, para marcar reservas e mostrar os horários disponíveis.
 
-As reservas são feitas em blocos de 1 hora, das 08:00 às 23:00, e a reserva mínima é de 1 hora. O horário de funcionamento e os valores devem ser confirmados com o estabelecimento.
+As reservas são feitas em blocos de 1 hora, das 08:00 às 23:00, e a reserva mínima é de 1 hora.
 
 ### Problema e demandas
 
@@ -278,9 +278,6 @@ A qualidade mínima exigida é a que evita falsos negativos: o MVP não pode per
 - **Valor da reserva:** valor por hora da quadra × duração em horas.
 - **Faturamento:** soma dos valores das reservas do período, pagas ou não.
 
-## 9. Pontos em aberto para confirmar com o estabelecimento
 
-- Valor por hora da quadra (e se muda por dia ou horário);
-- Horário real de funcionamento (e se muda aos fins de semana);
-- Regras de cancelamento (prazo, multa);
-- Existência de clientes mensalistas (reservas fixas toda semana).
+
+
