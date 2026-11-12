@@ -102,7 +102,7 @@ Formato do cap. 3: Como um [papel], eu gostaria de [ação]. Cada história é u
 
 **HU07 — Faturamento**
 
-- Em um período com uma reserva de R$ 80,00 e outra de R$ 160,00, o total é R$ 240,00 (valores de exemplo).
+- Em um período com uma reserva de R$ 85,00 e outra de R$ 160,00, o total é R$ 245,00 (valores de exemplo).
 - Em um período sem reservas, o total é R$ 0,00.
 - Se a data final for anterior à inicial, o pedido é recusado.
 
